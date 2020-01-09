@@ -4,7 +4,6 @@
     "**/app/**/*.js": true
   },
   "editor.tabSize": 2,
-  "editor.rulers": [90, 140],
   "files.trimTrailingWhitespace": true,
   // "files.autoSave": "onFocusChange",
   // "editor.cursorBlinking": "solid",
